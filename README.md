@@ -1,7 +1,7 @@
-# ClickHouse MCP Server
+# ClickHouse LCP Server
 [![PyPI - Version](https://img.shields.io/pypi/v/mcp-clickhouse)](https://pypi.org/project/mcp-clickhouse)
 
-An MCP server for ClickHouse.
+An LCP server for ClickHouse.
 
 <a href="https://glama.ai/mcp/servers/yvjy4csvo1"><img width="380" height="200" src="https://glama.ai/mcp/servers/yvjy4csvo1/badge" alt="mcp-clickhouse MCP server" /></a>
 
